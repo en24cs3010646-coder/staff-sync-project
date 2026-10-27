@@ -1,0 +1,6 @@
+{
+  "name": "StaffSync - Modern Human Resource Management System",
+  "description": "Comprehensive modern HRMS with role-based dashboards, employee lifecycle management, attendance tracking with audit trails, leave workflows, announcements, training, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
